@@ -1,12 +1,12 @@
 # 1709679_mii_2026-27
 
-# Projecto
+## Projecto
 redbull
 bla bla bla
-# Introdução
+## Introdução
 bitoque
 bla bla bla 
-# Descrição 
+## Descrição 
 bla bla bla
-# Conclusão
+## Conclusão
 bla bla bla
