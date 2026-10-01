@@ -1,0 +1,15 @@
+// primeiro  programa em C
+#include <stdio.h>
+
+void main()
+{
+    /*
+    Coca-cola
+    Refrigerante
+    */
+	printf("Hello World\n"); // mudança de linha 
+	// primeiro programa em C
+	printf("Joao Madeira\t"); // uso do tab
+	printf("informatica Industrial\t");
+	printf("\a\a\a\a"); // emissao de som
+}
